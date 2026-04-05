@@ -1,0 +1,3 @@
+requests
+aiogram==2.23.1
+flask
